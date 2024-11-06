@@ -2,6 +2,10 @@
 
 **Block Forum** is a decentralized, blockchain-based forum that allows users to create, view, and interact with posts securely. Built on Ethereum and using smart contracts, Block Forum ensures transparent and immutable discussions, leveraging the power of blockchain technology.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/81e3d7ba-2fc4-45b1-96ad-91b9bf6a7510)
+
 ## Features
 
 - Decentralized, censorship-resistant forum
