@@ -28,7 +28,7 @@ To set up Block Forum locally, you’ll need the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/block-forum.git
+git clone [https://github.com/your-username/block-forum.git](https://github.com/Devang-IO/block-forum.git)
 cd block-forum
 ```
 
